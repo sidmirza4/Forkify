@@ -1,6 +1,6 @@
 # Forkify
 Hey guys, welcome to Forkify, a javascript based single page app to search recipes. Please check it out and leave some feedback.  
-https://forkify4.surge.sh  
+https://forkify4.vercel.app  
 
 # Highlights 
 ==> New javascripts syntax, ES6, ES7 and some features of ES8.  
